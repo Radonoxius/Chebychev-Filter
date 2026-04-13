@@ -33,8 +33,8 @@ To utilize the Chebyshev filter in your application:
 2. Integrate the filter into your signal processing pipeline.
 3. Test the implementation to ensure correct functionality.
 
-##Demo
-This is the waveforms we got from the oscilloscope when the cutoff frequency was set at 1000Hz.
+## Demo
+This is the waveforms we got from the digital oscilloscope when the cutoff frequency was set at 1000Hz.
 
 For 100Hz, we got:
 
