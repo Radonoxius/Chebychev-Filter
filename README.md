@@ -56,6 +56,6 @@ We welcome contributions to improve this project. Please follow the guidelines b
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- Special thanks to our professor so that we can work on this project.
+- Special thanks to our professor that we got to work on this project.
 
 For more information, issues, or feature requests, please open an issue in the GitHub repository.
