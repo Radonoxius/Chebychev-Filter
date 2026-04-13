@@ -46,15 +46,6 @@ and for 3300Hz, we got:
 
 As it can be seen, any frequency above 1000Hz is severely attenuated.
 
-## Contributing
-We welcome contributions to improve this project. Please follow the guidelines below:
-- Fork the repository and create a new branch for each feature or bugfix.
-- Write clear and descriptive commit messages.
-- Submit a pull request for review.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Special thanks to our professor that we got to work on this project.
 
